@@ -30,7 +30,7 @@ proxy_username=YOUR_USER
 proxy_password=YOUR_PASSWORD
 
 # Target page to open via the proxy (note: variable name expected by code)
-targer_url=https://example.com
+targer_url=https://www.example.com   !! target format needs protocol and www !!
 
 # Optional: URL-style auth used with proxy-chain (commented path in code)
 # proxy_auth_url=http://USERNAME:PASSWORD@HOST:PORT
